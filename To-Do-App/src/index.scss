@@ -82,12 +82,12 @@ ul li .task-content input[type="checkbox"] {
 }
 
 ul li .task-content span {
-    flex-grow: 1; /* Ensures the task text takes available space */
+    flex-grow: 1; 
 }
 
 ul li .task-buttons {
-    display: flex; /* Use flexbox for the buttons */
-    gap: 10px; /* Space between the buttons */
+    display: flex;
+    gap: 10px; 
 }
 
 ul li .task-button {
